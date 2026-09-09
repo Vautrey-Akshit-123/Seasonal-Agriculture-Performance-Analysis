@@ -109,7 +109,8 @@ However, raw agricultural data does not clearly explain *how* performance change
 ├── Seasonal_Agriculture_Performance_Data_Analytics.ipynb   # Full analysis notebook
 ├── VOIS_Major_Project_PPT_Submission.pptx                  # Project presentation
 ├── seasonal_agriculture_performance_dataset                # Source dataset (CSV)
-└── Major Project_Seasonal Agriculture Performance Analysis.PDF
+├── Major Project_Seasonal Agriculture Performance Analysis.PDF
+└── README.md
 
 ````
 
@@ -147,13 +148,9 @@ All relationships reported are **associations** observed in a single cross-secti
 ## 🙋 Author
 
 **AKSHIT VAUTREY**
+
+
 AICTE VOIS Batch 2026–2027 — Major Project: Seasonal Agriculture Performance Analysis
 
----
 
-## 📄 License
-
-This project is for academic purposes as part of the AICTE VOIS program.
-
-````
 
